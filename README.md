@@ -1,7 +1,9 @@
 # Ex.No: 07 AUTO REGRESSIVE MODEL
 ### Date: 30.09.2025
+
 ### AIM:
-To Implementat an Auto Regressive Model using Python
+To Implement an Auto Regressive Model using Python
+
 ### ALGORITHM:
 1. Import necessary libraries
 2. Read the CSV file into a DataFrame
@@ -10,6 +12,7 @@ To Implementat an Auto Regressive Model using Python
 5. Plot Partial Autocorrelation Function (PACF) and Autocorrelation Function (ACF)
 6. Make predictions using the AR model.Compare the predictions with the test data
 7. Calculate Mean Squared Error (MSE).Plot the test data and predictions.
+   
 ### PROGRAM
 ```python
 import numpy as np
